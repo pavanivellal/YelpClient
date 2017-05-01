@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=‘images/working1.gif’ title=‘App running’ width='' alt='Video Walkthrough' />
-
-<img src=‘images/working2.gif’ title=‘App running’ width='' alt='Video Walkthrough' />
+<img src="images/working1.gif" title="Portrait view" width="" alt="Portrait view" />
+<br>
+<img src="images/working2.gif" title="Landscape View" width="" alt="Landscape View" />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
